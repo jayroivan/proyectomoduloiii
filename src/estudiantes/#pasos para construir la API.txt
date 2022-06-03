@@ -1,0 +1,11 @@
+#pasos para construir la API
+
+1-Crear el proyecto ( new nest proyecto )
+2-Crear el controlador
+3-Crear la interfaz
+4-Creador el servicio
+5-Añadir mongoose(npm install ....)
+6-Creado la carpeta Schemas dentro de estudiantes
+7-Creado el schema de estudiantes
+8-Actualizamos el servicio
+9-Crear un modelo (model) de estudiante
